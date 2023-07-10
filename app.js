@@ -6,7 +6,7 @@ const app = express();
 
 // ROUTES
 app.get("/", (req, res) => {
-  res.send("Welcome to Bookmarks App");
+  res.send("BUDGTR 💰🧾");
 });
 
 // EXPORT
